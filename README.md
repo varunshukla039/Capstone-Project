@@ -8,3 +8,5 @@ Furthermore, there has been a decline in the level of expertise required for mal
 The conventional approach to malware detection through signature-based methods is becoming increasingly ineffective, as modern malware exhibits polymorphic characteristics to evade detection. Additionally, malware often employs mechanisms to autonomously update itself, making it harder for antivirus software to keep up with new variants.
 
 Machine learning has emerged as a promising solution for antivirus software, as it enables the detection of new threats without relying solely on signatures. Unlike traditional fingerprinting methods, which compare files against a database of known malware, machine learning can discern between benign and malicious files by learning patterns, thereby detecting malware even if it has not been encountered before.
+
+![image](https://github.com/varunshukla039/META-JACKET/assets/80695037/0b52160b-92d7-4814-8646-585aab272ca6)
